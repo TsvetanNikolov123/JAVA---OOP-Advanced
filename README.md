@@ -54,3 +54,45 @@ Java Fundamentals: Java OOP Advanced - July 2018 @ SoftUni
 ***<a title="10 Tuple" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/4%20EXERCISE%20GENERICS#0410-tuple">10 Tuple</a>***
 
 ***<a title="11 Threeuple" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/4%20EXERCISE%20GENERICS#0411-threeuple">11 Threeuple</a>***
+
+---
+---
+
+## 05. Lab: Iterators and Comparators
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Book" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/5%20ITERATORS%20AND%20COMPARATORS#0501-book">01 Book</a>***
+
+***<a title="02 Library" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/5%20ITERATORS%20AND%20COMPARATORS#0502-library">02 Library</a>***
+
+***<a title="03 Comparable Book" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/5%20ITERATORS%20AND%20COMPARATORS#0503-comparable-book">03 Comparable Book</a>***
+
+***<a title="04 Book Comparator" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/5%20ITERATORS%20AND%20COMPARATORS#0504-book-comparator">04 Book Comparator</a>***
+
+---
+---
+
+## 06. Exercise: Iterators and Comparators
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 ListyIterator" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0601-listyiterator">01 ListyIterator</a>***
+
+***<a title="02 Collection" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0602-collection">02 Collection</a>***
+
+***<a title="03 Stack Iterator" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0603-stack-iterator">03 Stack Iterator</a>***
+
+***<a title="04 Froggy" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0604-froggy">04 Froggy</a>***
+
+***<a title="05 Comparing Objects" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0605-comparing-objects">05 Comparing Objects</a>***
+
+***<a title="06 Strategy Pattern" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0606-strategy-pattern">06 Strategy Pattern</a>***
+
+***<a title="07 *Equality Logic" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0607-equality-logic">07 \*Equality Logic</a>***
+
+***<a title="08 *Pet Clinics" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0608-pet-clinics">08 \*Pet Clinics</a>***
+
+***<a title="09 ***Linked List Traversal" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0609-linked-list-traversal">09 \*\*\*Linked List Traversal</a>***
