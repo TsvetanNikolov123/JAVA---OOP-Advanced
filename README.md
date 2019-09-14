@@ -96,3 +96,59 @@ Java Fundamentals: Java OOP Advanced - July 2018 @ SoftUni
 ***<a title="08 *Pet Clinics" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0608-pet-clinics">08 \*Pet Clinics</a>***
 
 ***<a title="09 ***Linked List Traversal" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/6%20EXERCISE%20ITERATORS%20AND%20COMPARATORS#0609-linked-list-traversal">09 \*\*\*Linked List Traversal</a>***
+
+---
+---
+
+## 07. Lab: Enums and Annotations
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Weekdays" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/7%20ENUMS%20AND%20ANNOTATIONS#0701-weekdays">01 Weekdays</a>***
+
+***<a title="02 Warning Levels" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/7%20ENUMS%20AND%20ANNOTATIONS#0702-warning-levels">02 Warning Levels</a>***
+
+***<a title="03 Coffee Machine" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/7%20ENUMS%20AND%20ANNOTATIONS#0703-coffee-machine">03 Coffee Machine</a>***
+
+***<a title="04 Create Annotation" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/7%20ENUMS%20AND%20ANNOTATIONS#0704-create-annotation">04 Create Annotation</a>***
+
+***<a title="05 Coding Tracker" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/7%20ENUMS%20AND%20ANNOTATIONS#0705-coding-tracker">05 Coding Tracker</a>***
+
+---
+---
+
+## 08. Exercise: Enums and Annotations
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Card Suit" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0801-card-suit">01 Card Suit</a>***
+
+***<a title="02 Card Rank" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0802-card-rank">02 Card Rank</a>***
+
+***<a title="03 Cards with Power" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0803-cards-with-power">03 Cards with Power</a>***
+
+***<a title="04 Card toString()" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0804-card-tostring">04 Card toString()</a>***
+
+***<a title="05 Card compareTo()" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0805-card-compareto">05 Card compareTo()</a>***
+
+***<a title="06 Custom Enum Annotation" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0806-custom-enum-annotation">06 Custom Enum Annotation</a>***
+
+***<a title="07 Deck of Cards" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0807-deck-of-cards">07 Deck of Cards</a>***
+
+***<a title="08 Card Game" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0808-card-game">08 Card Game</a>***
+
+***<a title="09 Traffic Lights" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0809-traffic-lights">09 Traffic Lights</a>***
+
+***<a title="10 *Inferno Infinity" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0810-inferno-infinity">10 \*Inferno Infinity</a>***
+
+***<a title="11 *Inferno Infinity - @Override the toString() Method" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0811-inferno-infinity---override-the-tostring-method">11 \*Inferno Infinity - @Override the toString() Method</a>***
+
+***<a title="12 *Inferno Infinity - @Override the compareTo() Method" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0812-inferno-infinity---override-the-compareto-method">12 \*Inferno Infinity - @Override the compareTo() Method</a>***
+
+***<a title="13 *Create Custom Class Annotation" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0813-create-custom-class-annotation">13 \*Create Custom Class Annotation</a>***
+
+***<a title="14 **Refactoring - Bonus" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0814-refactoring---bonus">14 \*\*Refactoring - Bonus</a>***
+
+***<a title="15 Bonus - Generate a JavaDoc file" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0815-bonus---generate-a-javadoc-file">15 Bonus - Generate a JavaDoc file</a>***
