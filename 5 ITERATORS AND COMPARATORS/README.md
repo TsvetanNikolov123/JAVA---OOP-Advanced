@@ -160,5 +160,3 @@ Create a class **BookComparator** from **UML diagram** below:
 <br/>
 
 ### Solution: <a title="04 Book Comparator" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/5%20ITERATORS%20AND%20COMPARATORS/p04_BookComparator">04 Book Comparator</a>
-
----                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
