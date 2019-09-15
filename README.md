@@ -224,3 +224,32 @@ Java Fundamentals: Java OOP Advanced - July 2018 @ SoftUni
 ***<a title="01 Logger" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/14%20EXERCISE%20OPENCLOSED%20LISKOV%20SUBSTITUTION%20PRINCIPLES#1401-logger">01 Logger</a>***
 
 ***<a title="02 Blobs" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/14%20EXERCISE%20OPENCLOSED%20LISKOV%20SUBSTITUTION%20PRINCIPLES#1402-blobs">02 Blobs</a>***
+
+---
+---
+
+## 15. Lab: INTERFACE SEGREGATION DEPENDENCY INVERSION PRINCIPLES
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 System Resources" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/15%20INTERFACE%20SEGREGATION%20DEPENDENCY%20INVERSION%20PRINCIPLES#151-system-resources">01 System Resources</a>***
+
+***<a title="02 Services" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/15%20INTERFACE%20SEGREGATION%20DEPENDENCY%20INVERSION%20PRINCIPLES#1502-services">02 Services</a>***
+
+***<a title="03 Employee Info" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/15%20INTERFACE%20SEGREGATION%20DEPENDENCY%20INVERSION%20PRINCIPLES#1503-employee-info">03 Employee Info</a>***
+
+***<a title="04 Recharge" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/15%20INTERFACE%20SEGREGATION%20DEPENDENCY%20INVERSION%20PRINCIPLES#1504-recharge">04 Recharge</a>***
+
+***<a title="05 Security Door" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/15%20INTERFACE%20SEGREGATION%20DEPENDENCY%20INVERSION%20PRINCIPLES#1505-security-door">05 Security Door</a>***
+
+---
+---
+
+## 16. Exercise: INTERFACE SEGREGATION DEPENDENCY INVERSION PRINCIPLES
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Boat Racing Simulator" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/16%20EXERCISE%20INTERFACE%20SEGREGATION%20DEPENDENCY%20INVERSION%20PRINCIPLES#1601-boat-racing-simulator">01 Boat Racing Simulator</a>***
+
