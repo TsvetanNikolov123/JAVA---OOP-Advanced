@@ -152,3 +152,75 @@ Java Fundamentals: Java OOP Advanced - July 2018 @ SoftUni
 ***<a title="14 **Refactoring - Bonus" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0814-refactoring---bonus">14 \*\*Refactoring - Bonus</a>***
 
 ***<a title="15 Bonus - Generate a JavaDoc file" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/8%20EXERCISE%20ENUMS%20AND%20ANNOTATIONS#0815-bonus---generate-a-javadoc-file">15 Bonus - Generate a JavaDoc file</a>***
+
+---
+---
+
+## 09. Lab: Reflection
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Reflection" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/9%20REFLECTION#0901-reflection">01 Reflection</a>***
+
+***<a title="02 Getters and Setters" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/9%20REFLECTION#0902-getters-and-setters">02 Getters and Setters</a>***
+
+***<a title="03 High Quality Mistakes" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/9%20REFLECTION#0903-high-quality-mistakes">03 High Quality Mistakes</a>***
+
+---
+---
+
+## 10. Exercise: Reflection
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Harvesting Fields" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/10%20EXERCISE%20REFLECTION#1001-harvesting-fields">01 Harvesting Fields</a>***
+
+***<a title="02 Black Box Integer" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/10%20EXERCISE%20REFLECTION#1002-black-box-integer">02 Black Box Integer</a>***
+
+***<a title="03 BarracksWars - A New Factory" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/10%20EXERCISE%20REFLECTION#1003-barrackswars---a-new-factory">03 BarracksWars - A New Factory</a>***
+
+***<a title="04 * BarracksWars - The Commands Strike Back" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/10%20EXERCISE%20REFLECTION#1004--barrackswars---the-commands-strike-back">04 * BarracksWars - The Commands Strike Back</a>***
+
+***<a title="05 * BarracksWars - Return of the Dependencies" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/10%20EXERCISE%20REFLECTION#1005--barrackswars---return-of-the-dependencies">05 * BarracksWars - Return of the Dependencies</a>***
+
+---
+---
+
+## 12. Exercise: UNIT Testing
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="Panzer" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/12%20EXERCISE%20UNIT%20TESTING#12-java-oop-advanced-exam--panzer">01 Panzer</a>***
+
+---
+---
+
+## 13. Lab: Open Closed Liskov Substitution Principles
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Extend ArrayList<T>" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/13%20OPEN%20CLOSED%20LISKOV%20SUBSTITUTION%20PRINCIPLES#1301-extend-arraylistt">01 Extend ArrayList<T></a>***
+
+***<a title="02 Stream Progress Info" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/13%20OPEN%20CLOSED%20LISKOV%20SUBSTITUTION%20PRINCIPLES#1302-stream-progress-info">02 Stream Progress Info</a>***
+
+***<a title="03 Graphic Editor" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/13%20OPEN%20CLOSED%20LISKOV%20SUBSTITUTION%20PRINCIPLES#1303-graphic-editor">03 Graphic Editor</a>***
+
+***<a title="04 Detail Printer" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/13%20OPEN%20CLOSED%20LISKOV%20SUBSTITUTION%20PRINCIPLES#1304-detail-printer">04 Detail Printer</a>***
+
+***<a title="05 Square" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/13%20OPEN%20CLOSED%20LISKOV%20SUBSTITUTION%20PRINCIPLES#1305-square">05 Square</a>***
+
+---
+---
+
+## 14. Exercise: Open Closed Liskov Substitution Principles
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Logger" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/14%20EXERCISE%20OPENCLOSED%20LISKOV%20SUBSTITUTION%20PRINCIPLES#1401-logger">01 Logger</a>***
+
+***<a title="02 Blobs" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/14%20EXERCISE%20OPENCLOSED%20LISKOV%20SUBSTITUTION%20PRINCIPLES#1402-blobs">02 Blobs</a>***
