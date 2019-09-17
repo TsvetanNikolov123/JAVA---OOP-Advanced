@@ -1,5 +1,5 @@
-19 OOP Advanced Exam – ArrPeeGee
-================================
+19 Exam Preparation I – ArrPeeGee
+=================================
 
 You finnaly landed your dream job working in a big game company. All your
 colleagues are already enjoying the holidays so it is your task to create the
