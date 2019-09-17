@@ -253,3 +253,71 @@ Java Fundamentals: Java OOP Advanced - July 2018 @ SoftUni
 
 ***<a title="01 Boat Racing Simulator" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/16%20EXERCISE%20INTERFACE%20SEGREGATION%20DEPENDENCY%20INVERSION%20PRINCIPLES#1601-boat-racing-simulator">01 Boat Racing Simulator</a>***
 
+---
+---
+
+## 17. Lab: Object Communication and Events
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Logger - Chain of Responsibility" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/17%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1701-logger---chain-of-responsibility">01 Logger - Chain of Responsibility</a>***
+
+***<a title="02 Command" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/17%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1702-command">02 Command</a>***
+
+***<a title="03 Mediator" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/17%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1703-mediator">03 Mediator</a>***
+
+***<a title="04 Observer" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/17%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1704-observer">04 Observer</a>***
+
+---
+---
+
+## 18. Exercise: Object Communication and Events
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Event Implementation" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/18%20EXERCISE%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1801-event-implementation">01 Event Implementation</a>***
+
+***<a title="02 King’s Gambit" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/18%20EXERCISE%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1802-kings-gambit">02 King’s Gambit</a>***
+
+***<a title="03 Dependency Inversion" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/18%20EXERCISE%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1803-dependency-inversion">03 Dependency Inversion</a>***
+
+***<a title="04 **Work Force" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/18%20EXERCISE%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1804-work-force">04 **Work Force</a>***
+
+***<a title="05 **King’s Gambit Extended" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/18%20EXERCISE%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1805-kings-gambit-extended">05 \*\*King’s Gambit Extended</a>***
+
+***<a title="06 *Mirror Image" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/18%20EXERCISE%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1806-mirror-image">06 \*Mirror Image</a>***
+
+***<a title="07 *1984" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/18%20EXERCISE%20OBJECT%20COMMUNICATION%20AND%20EVENTS#1807-1984">07 \*1984</a>***
+
+---
+---
+
+## 19. Exam Preparation I
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="ArrPeeGee" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/19%20ExamPreparation1#19-exam-preparation-i--arrpeegee">ArrPeeGee</a>***
+
+---
+---
+
+## 20. Exam Preparation II
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="H.E.L.L." href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/20%20ExamPreparation2#20-exam-preparation-ii--hell">H.E.L.L.</a>***
+
+---
+---
+
+## 21. Exam
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="Call of Duty" href="https://github.com/TsvetanNikolov123/JAVA---OOP-Advanced/tree/master/21%20Exam#21-exam--call-of-duty">Call of Duty</a>***
+
